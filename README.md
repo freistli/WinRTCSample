@@ -14,4 +14,5 @@ This is one Desktop Bridge sample
 #### Close Win32App
 #### Change TimeZone, the toast will show up, and winform will launch as well.
 
+Regarding how to use backgroundtask, refer to this [guideline](https://docs.microsoft.com/en-us/windows/uwp/launch-resume/guidelines-for-background-tasks)
 
