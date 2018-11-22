@@ -9,3 +9,14 @@ D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\Win32App\ob
 D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\Win32App\obj\x64\Debug\Win32App.pdb
 D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\Win32App\obj\x64\Debug\Win32App.csproj.CopyComplete
 D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\Win32App\obj\x64\Debug\Win32App.csprojAssemblyReference.cache
+D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\Win32App\bin\x64\Debug\Win32App.exe.config
+D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\Win32App\bin\x64\Debug\Win32App.exe
+D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\Win32App\bin\x64\Debug\Win32App.pdb
+D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\Win32App\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\Win32App\bin\x64\Debug\Windows.winmd
+D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\Win32App\bin\x64\Debug\zh-Hans\System.Runtime.WindowsRuntime.resources.dll
+D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\Win32App\obj\x64\Debug\Win32App.csprojAssemblyReference.cache
+D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\Win32App\obj\x64\Debug\Win32App.csproj.CoreCompileInputs.cache
+D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\Win32App\obj\x64\Debug\Win32App.csproj.CopyComplete
+D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\Win32App\obj\x64\Debug\Win32App.exe
+D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\Win32App\obj\x64\Debug\Win32App.pdb

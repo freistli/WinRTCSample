@@ -31,13 +31,13 @@
     <AppXManifest Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-11-22T06:02:33.049</Modified>
+      <Modified>2018-11-22T10:57:28.521</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\BackgroundTask\bin\x64\Debug\BackgroundTask.winmd">
       <PackagePath>BackgroundTask.winmd</PackagePath>
-      <Modified>2018-11-22T03:27:56.922</Modified>
+      <Modified>2018-11-22T10:57:25.472</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\LargeTile.scale-100.png">
       <PackagePath>images\LargeTile.scale-100.png</PackagePath>
@@ -266,7 +266,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\win32\Win32App.exe">
       <PackagePath>win32\Win32App.exe</PackagePath>
-      <Modified>2018-11-22T03:12:19.578</Modified>
+      <Modified>2018-11-22T06:56:53.918</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\win32\WinForm.exe">
       <PackagePath>win32\WinForm.exe</PackagePath>

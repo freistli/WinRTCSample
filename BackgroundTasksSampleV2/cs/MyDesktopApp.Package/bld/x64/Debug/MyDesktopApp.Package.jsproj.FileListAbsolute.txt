@@ -190,3 +190,8 @@ D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\bld\x64\De
 D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\bld\x64\Debug\.winmd_cache\$BackgroundTask.winmd_636784531409058504.json
 D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\bld\x64\Debug\.winmd_cache\$BackgroundTask.winmd_636784532390160267.json
 D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\bld\x64\Debug\.winmd_cache\$BackgroundTask.winmd_636784540769228177.json
+D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\bld\x64\Debug\.winmd_cache\$BackgroundTask.winmd_636784662031075751.json
+D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\bld\x64\Debug\.winmd_cache\$BackgroundTask.winmd_636784663550447871.json
+D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\bld\x64\Debug\.winmd_cache\$BackgroundTask.winmd_636784664322426431.json
+D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\bld\x64\Debug\.winmd_cache\$BackgroundTask.winmd_636784665487427566.json
+D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\bld\x64\Debug\.winmd_cache\$BackgroundTask.winmd_636784810454721900.json

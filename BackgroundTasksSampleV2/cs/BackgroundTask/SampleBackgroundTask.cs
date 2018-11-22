@@ -27,10 +27,20 @@ namespace BackgroundTask
         /// </summary>
         public async void Run(IBackgroundTaskInstance taskInstance)
         {
-            ShowToast("Background Task Triggered by Win32App!!!");
-            UpdateTile("Live tile update");
-           await Windows.ApplicationModel.FullTrustProcessLauncher.LaunchFullTrustProcessForCurrentAppAsync();
-
+            BackgroundTaskDeferral _deferral;
+            try
+            {
+                _deferral = taskInstance.GetDeferral();
+                ShowToast("Background Task Triggered by Win32App!!!");
+                UpdateTile("Live tile update");
+                await Windows.ApplicationModel.FullTrustProcessLauncher.LaunchFullTrustProcessForCurrentAppAsync();
+                _deferral.Complete();
+            }
+            catch (Exception ex)
+            {
+                ShowToast(ex.Message);
+            }
+            
         }
 
         /// <summary>
