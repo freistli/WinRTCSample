@@ -14,7 +14,7 @@
   <Properties>
     <DisplayName>Win32App</DisplayName>
     <PublisherDisplayName>CN=Test</PublisherDisplayName>
-    <Logo>Assets\SampleAppx.150x150.png</Logo>
+    <Logo>images\storelogo.png</Logo>
   </Properties>
   <Resources>
     <Resource Language="en-us" />
