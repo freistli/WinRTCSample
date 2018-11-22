@@ -10,55 +10,213 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>Win32App</PackageIdentityName>
     <PackageIdentityPublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\MyDesktopApp.Package\bld\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\bld\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath></WindowsSdkPath>
-    <LayoutDir>D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\MyDesktopApp.Package\bin\x64\Debug\AppX</LayoutDir>
+    <LayoutDir>D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\bin\x64\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\MyDesktopApp.Package\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\BackgroundTask\bin\x64\Debug\BackgroundTask.winmd">
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\BackgroundTask\bin\x64\Debug\BackgroundTask.winmd">
       <PackagePath>BackgroundTask.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\MyDesktopApp.Package\images\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\LargeTile.scale-100.png">
+      <PackagePath>images\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\LargeTile.scale-125.png">
+      <PackagePath>images\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\LargeTile.scale-150.png">
+      <PackagePath>images\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\LargeTile.scale-200.png">
+      <PackagePath>images\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\LargeTile.scale-400.png">
+      <PackagePath>images\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\MyDesktopApp.Package\images\SplashScreen.scale-200.png">
-      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SampleAppx.44x44.altform-unplated_targetsize-16.png">
+      <PackagePath>images\SampleAppx.44x44.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\MyDesktopApp.Package\images\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SampleAppx.44x44.altform-unplated_targetsize-24.png">
+      <PackagePath>images\SampleAppx.44x44.altform-unplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SampleAppx.44x44.altform-unplated_targetsize-256.png">
+      <PackagePath>images\SampleAppx.44x44.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SampleAppx.44x44.altform-unplated_targetsize-32.png">
+      <PackagePath>images\SampleAppx.44x44.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SampleAppx.44x44.altform-unplated_targetsize-48.png">
+      <PackagePath>images\SampleAppx.44x44.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SampleAppx.44x44.scale-100.png">
+      <PackagePath>images\SampleAppx.44x44.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SampleAppx.44x44.scale-125.png">
+      <PackagePath>images\SampleAppx.44x44.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SampleAppx.44x44.scale-150.png">
+      <PackagePath>images\SampleAppx.44x44.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SampleAppx.44x44.scale-200.png">
+      <PackagePath>images\SampleAppx.44x44.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SampleAppx.44x44.scale-400.png">
+      <PackagePath>images\SampleAppx.44x44.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SampleAppx.44x44.targetsize-16.png">
+      <PackagePath>images\SampleAppx.44x44.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SampleAppx.44x44.targetsize-24.png">
+      <PackagePath>images\SampleAppx.44x44.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SampleAppx.44x44.targetsize-256.png">
+      <PackagePath>images\SampleAppx.44x44.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SampleAppx.44x44.targetsize-32.png">
+      <PackagePath>images\SampleAppx.44x44.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SampleAppx.44x44.targetsize-48.png">
+      <PackagePath>images\SampleAppx.44x44.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SmallTile.scale-100.png">
+      <PackagePath>images\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SmallTile.scale-125.png">
+      <PackagePath>images\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SmallTile.scale-150.png">
+      <PackagePath>images\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SmallTile.scale-200.png">
+      <PackagePath>images\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SmallTile.scale-400.png">
+      <PackagePath>images\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SplashScreen.scale-125.png">
+      <PackagePath>images\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SplashScreen.scale-150.png">
+      <PackagePath>images\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\SplashScreen.scale-400.png">
+      <PackagePath>images\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\Square150x150Logo.scale-200.png">
       <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\MyDesktopApp.Package\images\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\Square44x44Logo.scale-200.png">
       <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\MyDesktopApp.Package\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\MyDesktopApp.Package\images\StoreLogo.png">
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\StoreLogo.png">
       <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\MyDesktopApp.Package\images\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\storelogo.scale-125.png">
+      <PackagePath>images\storelogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\storelogo.scale-150.png">
+      <PackagePath>images\storelogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\storelogo.scale-200.png">
+      <PackagePath>images\storelogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\storelogo.scale-400.png">
+      <PackagePath>images\storelogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\Wide310x150Logo.scale-200.png">
       <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\MyDesktopApp.Package\win32\Win32App.exe">
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\WideTile.scale-100.png">
+      <PackagePath>images\WideTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\WideTile.scale-125.png">
+      <PackagePath>images\WideTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\WideTile.scale-150.png">
+      <PackagePath>images\WideTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\WideTile.scale-200.png">
+      <PackagePath>images\WideTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\images\WideTile.scale-400.png">
+      <PackagePath>images\WideTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\win32\Win32App.exe">
       <PackagePath>win32\Win32App.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\MyDesktopApp.Package\win32\WinForm.exe">
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\win32\WinForm.exe">
       <PackagePath>win32\WinForm.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\MyDesktopApp.Package\win32\Win32App.exe.config">
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\win32\Win32App.exe.config">
       <PackagePath>win32\Win32App.exe.config</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\MyDesktopApp.Package\win32\WinForm.exe.config">
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\win32\WinForm.exe.config">
       <PackagePath>win32\WinForm.exe.config</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
@@ -406,10 +564,10 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackages\System.Xml.XmlSerializer\4.0.11\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\MyDesktopApp.Package\bin\x64\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\bin\x64\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\MyDesktopApp.Package\bin\x64\Debug\Core\UWPShim.exe">
+    <AppxPackagedFile Include="D:\repos\WinRTCSample\BackgroundTasksSampleV2\cs\MyDesktopApp.Package\bin\x64\Debug\Core\UWPShim.exe">
       <PackagePath>UWPShim.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

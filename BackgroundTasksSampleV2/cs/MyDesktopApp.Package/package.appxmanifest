@@ -5,7 +5,7 @@
   <Properties>
     <DisplayName>Win32App</DisplayName>
     <PublisherDisplayName>CN=Test</PublisherDisplayName>
-    <Logo>images\storelogo.png</Logo>
+    <Logo>images\storelogo.scale-150.png</Logo>
   </Properties>
   <Resources>
     <Resource Language="en-us" />
