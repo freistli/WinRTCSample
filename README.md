@@ -1,5 +1,5 @@
 # WinRTCSample
-This sample shows how Win32App register Win Runtime Component (backgroundtask), and the later one can launches Win32 Process on background if timezone is changed.
+This sample shows how Win32App register Win Runtime Component (backgroundtask), and the later one can launch Win32 Process on background if timezone is changed.
 
 This is one Desktop Bridge sample
 
