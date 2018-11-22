@@ -1,0 +1,8 @@
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\WinForm\bin\Debug\WinForm.exe.config
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\WinForm\bin\Debug\WinForm.exe
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\WinForm\bin\Debug\WinForm.pdb
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\WinForm\obj\Debug\WinForm.exe
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\WinForm\obj\Debug\WinForm.pdb

@@ -1,0 +1,25 @@
+D:\Windows Kits\10\References\10.0.17134.0\Windows.Gaming.XboxLive.StorageApiContract\1.0.0.0\Windows.Gaming.XboxLive.StorageApiContract.winmd
+D:\Windows Kits\10\References\10.0.17134.0\Windows.Graphics.Printing3D.Printing3DContract\4.0.0.0\Windows.Graphics.Printing3D.Printing3DContract.winmd
+D:\Windows Kits\10\References\10.0.17134.0\Windows.Devices.Custom.CustomDeviceContract\1.0.0.0\Windows.Devices.Custom.CustomDeviceContract.winmd
+D:\Windows Kits\10\References\10.0.17134.0\Windows.AI.MachineLearning.Preview.MachineLearningPreviewContract\1.0.0.0\Windows.AI.MachineLearning.Preview.MachineLearningPreviewContract.winmd
+D:\Windows Kits\10\References\10.0.17134.0\Windows.Devices.SmartCards.SmartCardEmulatorContract\5.0.0.0\Windows.Devices.SmartCards.SmartCardEmulatorContract.winmd
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\BackgroundTask\bin\x64\Debug\BackgroundTask.winmd
+D:\Windows Kits\10\References\10.0.17134.0\Windows.ApplicationModel.StartupTaskContract\3.0.0.0\Windows.ApplicationModel.StartupTaskContract.winmd
+D:\Windows Kits\10\References\10.0.17134.0\Windows.Devices.DevicesLowLevelContract\3.0.0.0\Windows.Devices.DevicesLowLevelContract.winmd
+D:\Windows Kits\10\References\10.0.17134.0\Windows.Networking.Connectivity.WwanContract\2.0.0.0\Windows.Networking.Connectivity.WwanContract.winmd
+D:\Windows Kits\10\References\10.0.17134.0\Windows.Services.Store.StoreContract\3.0.0.0\Windows.Services.Store.StoreContract.winmd
+D:\Windows Kits\10\References\10.0.17134.0\Windows.Foundation.FoundationContract\3.0.0.0\Windows.Foundation.FoundationContract.winmd
+D:\Windows Kits\10\References\10.0.17134.0\Windows.UI.ViewManagement.ViewManagementViewScalingContract\1.0.0.0\Windows.UI.ViewManagement.ViewManagementViewScalingContract.winmd
+D:\Windows Kits\10\References\10.0.17134.0\Windows.System.Profile.ProfileSharedModeContract\2.0.0.0\Windows.System.Profile.ProfileSharedModeContract.winmd
+D:\Windows Kits\10\References\10.0.17134.0\Windows.Foundation.UniversalApiContract\6.0.0.0\Windows.Foundation.UniversalApiContract.winmd
+D:\Windows Kits\10\References\10.0.17134.0\Windows.ApplicationModel.Calls.CallsVoipContract\3.0.0.0\Windows.ApplicationModel.Calls.CallsVoipContract.winmd
+D:\Windows Kits\10\References\10.0.17134.0\Windows.Devices.SmartCards.SmartCardBackgroundTriggerContract\3.0.0.0\Windows.Devices.SmartCards.SmartCardBackgroundTriggerContract.winmd
+D:\Windows Kits\10\References\10.0.17134.0\Windows.System.Profile.ProfileHardwareTokenContract\1.0.0.0\Windows.System.Profile.ProfileHardwareTokenContract.winmd
+D:\Windows Kits\10\References\10.0.17134.0\Windows.ApplicationModel.SocialInfo.SocialInfoContract\2.0.0.0\Windows.ApplicationModel.SocialInfo.SocialInfoContract.winmd
+D:\Windows Kits\10\References\10.0.17134.0\Windows.Devices.Printers.PrintersContract\1.0.0.0\Windows.Devices.Printers.PrintersContract.winmd
+D:\Windows Kits\10\References\10.0.17134.0\Windows.Services.TargetedContent.TargetedContentContract\1.0.0.0\Windows.Services.TargetedContent.TargetedContentContract.winmd
+-emitAnyForUnresolvedTypes
+-outFilePath
+d:\repos\desktopbridgetouwp-samples\samples\backgroundtaskssample\cs\mydesktopapp.package\bld\x64\debug\winrtrefs\winrtrefs-temp.d.ts
+-emitDocumentation
+-suppressWarningsForUnresolvedWindowsTypes

@@ -1,0 +1,11 @@
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\Win32App\bin\x64\Debug\Win32App.exe.config
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\Win32App\bin\x64\Debug\Win32App.exe
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\Win32App\bin\x64\Debug\Win32App.pdb
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\Win32App\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\Win32App\bin\x64\Debug\Windows.winmd
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\Win32App\bin\x64\Debug\zh-Hans\System.Runtime.WindowsRuntime.resources.dll
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\Win32App\obj\x64\Debug\Win32App.csproj.CoreCompileInputs.cache
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\Win32App\obj\x64\Debug\Win32App.exe
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\Win32App\obj\x64\Debug\Win32App.pdb
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\Win32App\obj\x64\Debug\Win32App.csproj.CopyComplete
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\Win32App\obj\x64\Debug\Win32App.csprojAssemblyReference.cache

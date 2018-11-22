@@ -1,0 +1,2 @@
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\BackgroundTask\BackgroundTask.csproj;x64
+D:\repos\DesktopBridgeToUWP-Samples\Samples\BackgroundTasksSample\cs\MyDesktopApp.Package\MyDesktopApp.Package.jsproj;x64
