@@ -1,15 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10"
-        xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10"
-
-        xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest"
-        xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities"
-         xmlns:desktop="http://schemas.microsoft.com/appx/manifest/desktop/windows10"
-        IgnorableNamespaces="uap rescap mp">
-  <Identity Name="Win32App"
-            ProcessorArchitecture="x64"
-            Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
-            Version="1.0.0.5" />
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities" xmlns:desktop="http://schemas.microsoft.com/appx/manifest/desktop/windows10" IgnorableNamespaces="uap rescap mp">
+  <Identity Name="Win32App" ProcessorArchitecture="x64" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" Version="1.0.0.5" />
   <mp:PhoneIdentity PhoneProductId="6f6600a4-6da1-4d91-b493-35808d01f8de" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Win32App</DisplayName>
@@ -20,25 +11,27 @@
     <Resource Language="en-us" />
   </Resources>
   <Dependencies>
-    <TargetDeviceFamily Name="Windows.Desktop"
-                        MinVersion="10.0.14393.0"
-                        MaxVersionTested="10.0.15063.0" />
+    <TargetDeviceFamily Name="Windows.Desktop" MinVersion="10.0.14393.0" MaxVersionTested="10.0.15063.0" />
   </Dependencies>
   <Capabilities>
-    <rescap:Capability Name="runFullTrust" />
     <Capability Name="internetClient" />
+    <rescap:Capability Name="runFullTrust" />
   </Capabilities>
   <Applications>
     <Application Id="Win32App" Executable="win32\Win32App.exe" EntryPoint="Windows.FullTrustApplication">
-      <uap:VisualElements DisplayName="Win32App" Description="Win32App" BackgroundColor="#777777" Square150x150Logo="images\storelogo.png" Square44x44Logo="Assets\SampleAppx.44x44.png" />
+      <uap:VisualElements DisplayName="Win32App" Description="Win32App" BackgroundColor="#777777" Square150x150Logo="images\storelogo.png" Square44x44Logo="images\SampleAppx.44x44.png">
+        <uap:DefaultTile Square310x310Logo="images\LargeTile.png" Wide310x150Logo="images\WideTile.png" Square71x71Logo="images\SmallTile.png">
+        </uap:DefaultTile>
+        <uap:SplashScreen Image="images\SplashScreen.png" />
+      </uap:VisualElements>
       <Extensions>
+        <desktop:Extension Category="windows.fullTrustProcess" Executable="win32\WinForm.exe" />
         <Extension Category="windows.backgroundTasks" EntryPoint="BackgroundTask.SampleBackgroundTask">
           <BackgroundTasks>
             <Task Type="systemEvent" />
             <Task Type="timer" />
           </BackgroundTasks>
         </Extension>
-        <desktop:Extension Category="windows.fullTrustProcess" Executable="win32\WinForm.exe"/>
       </Extensions>
     </Application>
   </Applications>

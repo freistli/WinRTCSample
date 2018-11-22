@@ -58,13 +58,52 @@
     <AppxManifest Include="package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
+    <Content Include="images\LargeTile.scale-100.png" />
+    <Content Include="images\LargeTile.scale-125.png" />
+    <Content Include="images\LargeTile.scale-150.png" />
+    <Content Include="images\LargeTile.scale-200.png" />
+    <Content Include="images\LargeTile.scale-400.png" />
     <Content Include="images\LockScreenLogo.scale-200.png" />
+    <Content Include="images\SampleAppx.44x44.altform-unplated_targetsize-16.png" />
+    <Content Include="images\SampleAppx.44x44.altform-unplated_targetsize-24.png" />
+    <Content Include="images\SampleAppx.44x44.altform-unplated_targetsize-256.png" />
+    <Content Include="images\SampleAppx.44x44.altform-unplated_targetsize-32.png" />
+    <Content Include="images\SampleAppx.44x44.altform-unplated_targetsize-48.png" />
+    <Content Include="images\SampleAppx.44x44.scale-100.png" />
+    <Content Include="images\SampleAppx.44x44.scale-125.png" />
+    <Content Include="images\SampleAppx.44x44.scale-150.png" />
+    <Content Include="images\SampleAppx.44x44.scale-200.png" />
+    <Content Include="images\SampleAppx.44x44.scale-400.png" />
+    <Content Include="images\SampleAppx.44x44.targetsize-16.png" />
+    <Content Include="images\SampleAppx.44x44.targetsize-24.png" />
+    <Content Include="images\SampleAppx.44x44.targetsize-256.png" />
+    <Content Include="images\SampleAppx.44x44.targetsize-32.png" />
+    <Content Include="images\SampleAppx.44x44.targetsize-48.png" />
+    <Content Include="images\SmallTile.scale-100.png" />
+    <Content Include="images\SmallTile.scale-125.png" />
+    <Content Include="images\SmallTile.scale-150.png" />
+    <Content Include="images\SmallTile.scale-200.png" />
+    <Content Include="images\SmallTile.scale-400.png" />
+    <Content Include="images\SplashScreen.scale-100.png" />
+    <Content Include="images\SplashScreen.scale-125.png" />
+    <Content Include="images\SplashScreen.scale-150.png" />
     <Content Include="images\SplashScreen.scale-200.png" />
+    <Content Include="images\SplashScreen.scale-400.png" />
     <Content Include="images\Square150x150Logo.scale-200.png" />
     <Content Include="images\Square44x44Logo.scale-200.png" />
     <Content Include="images\Square44x44Logo.targetsize-24_altform-unplated.png" />
     <Content Include="images\StoreLogo.png" />
+    <Content Include="images\storelogo.scale-100.png" />
+    <Content Include="images\storelogo.scale-125.png" />
+    <Content Include="images\storelogo.scale-150.png" />
+    <Content Include="images\storelogo.scale-200.png" />
+    <Content Include="images\storelogo.scale-400.png" />
     <Content Include="images\Wide310x150Logo.scale-200.png" />
+    <Content Include="images\WideTile.scale-100.png" />
+    <Content Include="images\WideTile.scale-125.png" />
+    <Content Include="images\WideTile.scale-150.png" />
+    <Content Include="images\WideTile.scale-200.png" />
+    <Content Include="images\WideTile.scale-400.png" />
     <Content Include="win32\Win32App.exe">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>

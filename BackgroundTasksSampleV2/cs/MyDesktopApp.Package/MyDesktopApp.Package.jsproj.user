@@ -1,4 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <PropertyGroup />
+  <PropertyGroup>
+    <Source>D:\temp\edge-extension-sample-master\icons\icon_48.png</Source>
+    <SmallTileSource>D:\temp\edge-extension-sample-master\icons\icon_48.png</SmallTileSource>
+    <MediumTileSource>D:\temp\edge-extension-sample-master\icons\icon_48.png</MediumTileSource>
+    <WideTileSource>D:\temp\edge-extension-sample-master\icons\icon_48.png</WideTileSource>
+    <LargeTileSource>D:\temp\edge-extension-sample-master\icons\icon_48.png</LargeTileSource>
+    <AppIconSource>D:\temp\edge-extension-sample-master\icons\icon_48.png</AppIconSource>
+    <SplashScreenSource>D:\temp\edge-extension-sample-master\icons\icon_48.png</SplashScreenSource>
+    <PackageLogoSource>D:\temp\edge-extension-sample-master\icons\icon_48.png</PackageLogoSource>
+  </PropertyGroup>
 </Project>
